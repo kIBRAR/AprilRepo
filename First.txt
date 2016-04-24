@@ -1,1 +1,2 @@
-First
+First in local
+Second change in Remote
